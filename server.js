@@ -1,9 +1,9 @@
-const express = require('express');
-const cors = require('cors');
-const dotenv = require('dotenv');
+import express from 'express';
+import cors from 'cors';
+import dotenv from 'dotenv';
 
-const vetFormRoute = require('./routes/vetForm');
-const nocFormRoute = require('./routes/nocForm');
+import vetFormRoute from './routes/vetForm.js';
+import nocFormRoute from './routes/nocForm.js';
 
 dotenv.config();
 
