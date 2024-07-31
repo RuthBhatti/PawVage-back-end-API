@@ -1,4 +1,6 @@
-# 🐾 PawVoyage Backend API
+<div align="center">
+  <h1>🐾 PawVoyage Backend API</h1>
+</div>
 
 This is the backend API for the PawVoyage application, which handles form submissions for NOC and Health certificates. The front-end: https://github.com/RuthBhatti/PawVage
 
